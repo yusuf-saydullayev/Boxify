@@ -100,6 +100,12 @@
 }
 
 @media (max-width: 575px) {
+  .overlay nav {
+    top: 40%;
+  }
+  .features-slider {
+    padding: 6% 100px 0% 100px;
+  }
   .overlay ul li {
     float: none !important;
     margin: 0 0 10px 0;
@@ -140,7 +146,7 @@
 }
 @media (min-width: 576px) {
   .showcase .download-btn {
-    margin-left:20%;
+    margin-left: 20%;
   }
   footer .col-md-5 {
     display: flex;
