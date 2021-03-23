@@ -1,28 +1,28 @@
 import "./App.css";
-import Logo from "./img/logo-white.png";
-import Logo2 from "./img/html5-logo.png";
-import Logo3 from "./img/logo-blue.png";
-import Screen from "./img/screen1.jpg";
-import Screen2 from "./img/screen2.jpg";
-import Screen3 from "./img/screen3.jpg";
-import Avatar from "./img/avatar.png";
-import Codrops from "./img/codrops-logo.png";
-import Screenshot from "./img/01-screenshot.jpg";
-import Screenshot2 from "./img/02-screenshot.jpg";
-import Screenshot3 from "./img/03-screenshot.jpg";
-import Screenshot4 from "./img/04-screenshot.jpg";
-import Screenshot5 from "./img/05-screenshot.jpg";
-import Screenshot6 from "./img/06-screenshot.jpg";
-import Screenshot7 from "./img/07-screenshot.jpg";
-import Screenshot8 from "./img/08-screenshot.jpg";
-import LargeImage from "./img/large/01.jpg";
-import LargeImage2 from "./img/large/02.jpg";
-import LargeImage3 from "./img/large/03.jpg";
-import LargeImage4 from "./img/large/04.jpg";
-import LargeImage5 from "./img/large/05.jpg";
-import LargeImage6 from "./img/large/06.jpg";
-import LargeImage7 from "./img/large/07.jpg";
-import LargeImage8 from "./img/large/08.jpg";
+import Logo from "./img/logo-white.webp";
+import Logo2 from "./img/html5-logo.webp";
+import Logo3 from "./img/logo-blue.webp";
+import Screen from "./img/screen1.webp";
+import Screen2 from "./img/screen2.webp";
+import Screen3 from "./img/screen3.webp";
+import Avatar from "./img/avatar.webp";
+import Codrops from "./img/codrops-logo.webp";
+import Screenshot from "./img/01-screenshot.webp";
+import Screenshot2 from "./img/02-screenshot.webp";
+import Screenshot3 from "./img/03-screenshot.webp";
+import Screenshot4 from "./img/04-screenshot.webp";
+import Screenshot5 from "./img/05-screenshot.webp";
+import Screenshot6 from "./img/06-screenshot.webp";
+import Screenshot7 from "./img/07-screenshot.webp";
+import Screenshot8 from "./img/08-screenshot.webp";
+import LargeImage from "./img/large/01.webp";
+import LargeImage2 from "./img/large/02.webp";
+import LargeImage3 from "./img/large/03.webp";
+import LargeImage4 from "./img/large/04.webp";
+import LargeImage5 from "./img/large/05.webp";
+import LargeImage6 from "./img/large/06.webp";
+import LargeImage7 from "./img/large/07.webp";
+import LargeImage8 from "./img/large/08.webp";
 
 function App() {
   const setShowNavText = () => {
@@ -186,7 +186,7 @@ function App() {
               </div>
               <div className="col-md-4 feature-2 wp2 delay-05s">
                 <div className="feature-icon">
-                  <i className="fa fa-flash"></i>
+                  <i className="fas fa-bolt"></i>
                 </div>
                 <div className="feature-content">
                   <h1>Multi-Purpose</h1>
@@ -290,7 +290,7 @@ function App() {
               </p>
               <p>
                 <a href="#screenshots" className="arrow-btn">
-                  See the screenshots!{" "}
+                  See the screenshots!
                   <i className="fa fa-long-arrow-right"></i>
                 </a>
               </p>
@@ -445,9 +445,9 @@ function App() {
                 <img src={Logo3} alt="" />
               </h1>
               <p>
-                A free website template created exclusively for
+                website template created exclusively for
                 <a href="#!">
-                  <em>Codrops</em>
+                  <em>Lorem</em>
                 </a>
               </p>
             </div>

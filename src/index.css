@@ -436,7 +436,7 @@ a:focus {
   position: relative;
   padding: 60px 0 60px 0;
   min-height: 800px;
-  background: rgb(40, 70, 102) url(./img/hero-01.jpg) no-repeat center center;
+  background: rgb(40, 70, 102) url(./img/hero-01.webp) no-repeat center center;
   background-size: cover;
   color: #fff;
 }
@@ -506,7 +506,7 @@ section.video a:focus i {
 .features-bg {
   position: relative;
   min-height: 400px;
-  background: url(./img/features-intro-01.jpg) no-repeat center center;
+  background: url(./img/features-intro-01.webp) no-repeat center center;
   background-size: cover;
 }
 .features-img {
@@ -615,7 +615,7 @@ blockquote .logo-quote {
 }
 
 .showcase {
-  background: url(./img/showcase-bg-fixed-01.jpg) no-repeat center center fixed;
+  background: url(./img/showcase-bg-fixed-01.webp) no-repeat center center fixed;
   background-size: cover;
 }
 .showcase h1 {
@@ -634,7 +634,7 @@ blockquote .logo-quote {
   left: 20%;
   min-height: 676px;
   width: 359px;
-  background: url(./img/iphone-skeleton.png) no-repeat center center;
+  background: url(./img/iphone-skeleton.webp) no-repeat center center;
 }
 .device-content {
   position: absolute;
